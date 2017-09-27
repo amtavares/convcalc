@@ -1,0 +1,34 @@
+NBR 6657
+
+Testar para
+
+Rotação máxima
+Deflexão do eixo
+Vida util do rolamento, em horas
+
+
+Quando o diametro é dado:
+	Pegar o menor diametro
+	Testar para vida util do rolamento
+	Falar que passa com um menor do que o especificado
+
+
+
+Carga geralmente é triplo, 45
+
+verofica somente vida util do rolamento deflexao do eixo
+
+Espaçamento entre roletes: 1m na carga e 3m no retorno
+
+
+
+Perguntar à Milla:
+Em que momento se escolhe se o rolete vai ser triplo, duplo ou plano?
+
+qm, que é o peso do material, na formula não deveria ser (qm+qc) ?
+De onde vem o mpm ?
+O que é a linha rolo na tablea 6?
+O que é o risco diagonal na tabela 6 ?
+
+
+
